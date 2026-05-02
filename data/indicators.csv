@@ -1,0 +1,11 @@
+indicator_key,indicator_name,indicator_family,measurement_note,warning
+gdp,Gross Domestic Product,national_accounts,"Measures market value of final goods and services produced within a territory.","Does not measure distribution unpaid care ecological depletion or well-being directly."
+gini,Gini Coefficient,inequality,"Measures income or wealth inequality on a 0 to 1 scale.","Can hide distributional details at top and bottom."
+poverty_rate,Poverty Rate,welfare,"Share of population below a defined poverty threshold.","Depends on poverty line definition and cost-of-living context."
+employment_rate,Employment Rate,labor,"Share of working-age population employed.","Does not measure job quality wages security or care burdens."
+labor_share,Labor Share,labor,"Share of income accruing to labor rather than capital.","Sensitive to measurement definitions and self-employment treatment."
+public_investment,Public Investment,public_finance,"Government investment in infrastructure public systems and productive capacity.","Quality and distribution matter as much as quantity."
+debt_service_ratio,Debt Service Ratio,finance,"Debt service relative to income revenue or exports.","Does not alone capture maturity currency exposure or social cost."
+material_footprint,Material Footprint,ecological,"Material extraction associated with consumption.","Data often uncertain and may obscure distribution."
+carbon_intensity,Carbon Intensity,ecological,"Emissions per unit of output energy or activity.","Efficiency gains may coexist with total emissions growth."
+wellbeing_index,Well-Being Index,beyond_gdp,"Composite indicator of quality of life social outcomes and subjective well-being.","Weighting choices reflect value judgments."

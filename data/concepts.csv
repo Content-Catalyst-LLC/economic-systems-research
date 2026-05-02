@@ -1,0 +1,13 @@
+concept_key,concept_name,concept_family,definition_note
+economic_system,Economic System,foundational,"Historically specific arrangement for organizing production distribution exchange consumption labor property finance and provisioning."
+market,Market,coordination,"Institutional arrangement through which exchange prices and allocation are coordinated."
+state,State,institutional,"Public authority with legal fiscal regulatory and administrative capacity."
+public_goods,Public Goods,market_failure,"Goods or services characterized by non-rivalry and non-excludability or broader collective provision."
+externality,Externality,market_failure,"Cost or benefit not fully reflected in market prices."
+commons,Commons,institutional,"Shared resource or system governed through collective rules and social institutions."
+capital,Capital,production,"Accumulated productive assets financial claims or ownership claims used in economic activity."
+debt,Debt,finance,"Obligation to make future payments shaping investment consumption fiscal capacity and dependency."
+capability,Capability,welfare,"Substantive freedom to be and do things people have reason to value."
+natural_capital,Natural Capital,ecological,"Ecosystems resources and life-support functions treated as productive foundations of economic life."
+throughput,Throughput,ecological,"Energy and material flows used and transformed by the economy."
+resilience,Economic Resilience,systems,"Capacity of an economy to absorb adapt recover and transform under stress."
