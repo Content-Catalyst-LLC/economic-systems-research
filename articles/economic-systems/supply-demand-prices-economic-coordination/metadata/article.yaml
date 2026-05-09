@@ -1,0 +1,26 @@
+title: "Supply, Demand, Prices, and Economic Coordination"
+slug: "supply-demand-prices-economic-coordination"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/supply-demand-prices-economic-coordination"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - supply
+  - demand
+  - prices
+  - economic coordination
+  - market equilibrium
+  - elasticity
+  - supply shocks
+  - demand shocks
+  - externalities
+  - public goods
+  - purchasing power
+  - effective demand
+  - market power
+  - ecological costs
+license: MIT
