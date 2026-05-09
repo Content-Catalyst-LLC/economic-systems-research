@@ -1,0 +1,24 @@
+title: "Production, Distribution, and Exchange in Human Societies"
+slug: "production-distribution-exchange-human-societies"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/production-distribution-exchange-human-societies"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - production
+  - distribution
+  - exchange
+  - input-output analysis
+  - labor share
+  - non-labor income
+  - public goods
+  - trade
+  - global value chains
+  - ecological throughput
+  - social reproduction
+  - economic systems
+license: MIT
