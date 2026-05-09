@@ -1,0 +1,30 @@
+title: "Business Cycles: Economic Expansions, Recessions, and Macroeconomic Stability"
+slug: "business-cycles-expansions-recessions-macroeconomic-stability"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/business-cycles-expansions-recessions-macroeconomic-stability"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - business cycles
+  - expansions
+  - recessions
+  - peaks
+  - troughs
+  - recovery
+  - macroeconomic stability
+  - output gaps
+  - trend-cycle decomposition
+  - stabilization policy
+  - monetary policy
+  - fiscal policy
+data_sources:
+  - FRED
+  - NBER recession indicators
+  - BEA via FRED
+  - BLS via FRED
+  - Federal Reserve via FRED
+license: MIT
