@@ -1,0 +1,27 @@
+title: "Economic Resilience: Why Recessions Occur and How Economies Recover"
+slug: "economic-resilience-recessions-recovery"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/economic-resilience-recessions-recovery"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - recession dating
+  - aggregate demand
+  - unemployment
+  - output gaps
+  - recovery measurement
+  - automatic stabilizers
+  - monetary policy
+  - fiscal policy
+  - financial fragility
+  - economic resilience
+data_sources:
+  - FRED
+  - NBER recession indicators
+  - BEA via FRED
+  - BLS via FRED
+license: MIT
