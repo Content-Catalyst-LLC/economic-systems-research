@@ -1,0 +1,29 @@
+title: "Stabilization Policy: Fiscal and Monetary Tools for Managing Economic Fluctuations"
+slug: "stabilization-policy-fiscal-monetary-tools-economic-fluctuations"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/stabilization-policy-fiscal-monetary-tools-economic-fluctuations"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - stabilization policy
+  - fiscal policy
+  - monetary policy
+  - automatic stabilizers
+  - output gaps
+  - unemployment
+  - recession response
+  - aggregate demand
+  - Taylor rule
+  - public finance
+  - macroeconomic stability
+data_sources:
+  - FRED
+  - NBER recession indicators
+  - BEA via FRED
+  - BLS via FRED
+  - Federal Reserve via FRED
+license: MIT
