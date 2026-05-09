@@ -1,0 +1,26 @@
+title: "Households, Firms, Markets, and States"
+slug: "households-firms-markets-and-states"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/households-firms-markets-and-states"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - households
+  - firms
+  - markets
+  - states
+  - institutional economics
+  - public goods
+  - household budgets
+  - firm profits
+  - state capacity
+  - redistribution
+  - market access
+  - social reproduction
+  - risk distribution
+  - economic systems
+license: MIT
