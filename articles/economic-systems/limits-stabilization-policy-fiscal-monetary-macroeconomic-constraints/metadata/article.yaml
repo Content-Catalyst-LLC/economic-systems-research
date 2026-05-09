@@ -1,0 +1,30 @@
+title: "Limits of Stabilization Policy: Fiscal Policy, Monetary Policy, and Macroeconomic Constraints"
+slug: "limits-stabilization-policy-fiscal-monetary-macroeconomic-constraints"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/limits-stabilization-policy-fiscal-monetary-macroeconomic-constraints"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - stabilization policy limits
+  - fiscal constraints
+  - monetary constraints
+  - crowding out
+  - inflation risk
+  - public debt
+  - debt sustainability
+  - fiscal space
+  - zero lower bound
+  - policy lags
+  - output gaps
+  - macroeconomic constraints
+data_sources:
+  - FRED
+  - NBER recession indicators
+  - BEA via FRED
+  - BLS via FRED
+  - Federal Reserve via FRED
+license: MIT
