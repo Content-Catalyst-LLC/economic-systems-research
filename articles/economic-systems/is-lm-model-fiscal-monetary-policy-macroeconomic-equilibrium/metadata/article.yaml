@@ -1,0 +1,24 @@
+title: "The IS–LM Model: Fiscal Policy, Monetary Policy, and Macroeconomic Equilibrium"
+slug: "is-lm-model-fiscal-monetary-policy-macroeconomic-equilibrium"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/is-lm-model-fiscal-monetary-policy-macroeconomic-equilibrium"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - IS-LM model
+  - goods market equilibrium
+  - money market equilibrium
+  - fiscal policy
+  - monetary policy
+  - aggregate demand
+  - interest rates
+  - output
+  - crowding out
+  - liquidity trap
+  - comparative statics
+  - policy multipliers
+license: MIT
