@@ -1,0 +1,33 @@
+title: "Economic Resilience, Fragility, and Adaptive Capacity"
+slug: "economic-resilience-fragility-and-adaptive-capacity"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/economic-resilience-fragility-and-adaptive-capacity"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - economic resilience
+  - fragility
+  - adaptive capacity
+  - shock exposure
+  - buffers
+  - redundancy
+  - slack
+  - public capacity
+  - household resilience
+  - firm resilience
+  - supply chains
+  - infrastructure interdependence
+  - financial fragility
+  - leverage
+  - labor market adaptation
+  - ecological risk
+  - energy stress
+  - social trust
+  - recovery
+  - transformational adaptation
+  - sustainable systems
+license: MIT
