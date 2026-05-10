@@ -1,0 +1,32 @@
+title: "Circular Economy and Regenerative Production"
+slug: "circular-economy-and-regenerative-production"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/circular-economy-and-regenerative-production"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - circular economy
+  - regenerative production
+  - material flows
+  - waste reduction
+  - reuse
+  - repair
+  - remanufacturing
+  - recycling
+  - product life extension
+  - durability
+  - design for disassembly
+  - circular infrastructure
+  - reverse logistics
+  - product-service systems
+  - right to repair
+  - extended producer responsibility
+  - regenerative agriculture
+  - rebound effects
+  - circular justice
+  - sustainable systems
+license: MIT
