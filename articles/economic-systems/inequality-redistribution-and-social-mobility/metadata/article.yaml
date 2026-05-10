@@ -1,0 +1,31 @@
+title: "Inequality, Redistribution, and Social Mobility"
+slug: "inequality-redistribution-and-social-mobility"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/inequality-redistribution-and-social-mobility"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - inequality
+  - redistribution
+  - social mobility
+  - income distribution
+  - wealth concentration
+  - taxation
+  - transfers
+  - public services
+  - social insurance
+  - labor markets
+  - bargaining power
+  - housing
+  - place-based opportunity
+  - education
+  - health
+  - intergenerational mobility
+  - opportunity formation
+  - economic security
+  - sustainable systems
+license: MIT
