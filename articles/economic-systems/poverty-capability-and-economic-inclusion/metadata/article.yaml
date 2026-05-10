@@ -1,0 +1,31 @@
+title: "Poverty, Capability, and Economic Inclusion"
+slug: "poverty-capability-and-economic-inclusion"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/poverty-capability-and-economic-inclusion"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - poverty
+  - capability
+  - economic inclusion
+  - multidimensional deprivation
+  - poverty gap
+  - vulnerability
+  - conversion conditions
+  - public services
+  - social protection
+  - housing
+  - infrastructure
+  - informality
+  - precarious work
+  - financial inclusion
+  - care work
+  - child poverty
+  - spatial exclusion
+  - digital inclusion
+  - sustainable systems
+license: MIT
