@@ -1,0 +1,27 @@
+title: "Macroeconomic Stability, Business Cycles, and Crisis"
+slug: "macroeconomic-stability-business-cycles-and-crisis"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/macroeconomic-stability-business-cycles-and-crisis"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - macroeconomic stability
+  - business cycles
+  - recession
+  - crisis
+  - aggregate demand
+  - output gap
+  - fiscal policy
+  - monetary policy
+  - automatic stabilizers
+  - debt deflation
+  - balance sheets
+  - unemployment
+  - inflation
+  - open economy shocks
+  - sustainable macroeconomics
+license: MIT
