@@ -1,0 +1,34 @@
+title: "Natural Capital, Resource Use, and Environmental Constraint"
+slug: "natural-capital-resource-use-and-environmental-constraint"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/natural-capital-resource-use-and-environmental-constraint"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - natural capital
+  - resource use
+  - environmental constraint
+  - stocks and flows
+  - regeneration
+  - depletion
+  - renewable resources
+  - nonrenewable resources
+  - throughput
+  - waste constraints
+  - absorptive capacity
+  - soil
+  - water
+  - forests
+  - minerals
+  - energy
+  - ecosystem functions
+  - commons governance
+  - ecological burden
+  - environmental justice
+  - resilience
+  - sustainable systems
+license: MIT
