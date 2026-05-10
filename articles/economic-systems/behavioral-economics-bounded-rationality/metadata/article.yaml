@@ -1,0 +1,26 @@
+title: "Behavioral Economics and Bounded Rationality"
+slug: "behavioral-economics-bounded-rationality"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/behavioral-economics-bounded-rationality"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - behavioral economics
+  - bounded rationality
+  - satisficing
+  - heuristics
+  - framing effects
+  - reference points
+  - loss aversion
+  - present bias
+  - probability weighting
+  - defaults
+  - administrative burden
+  - choice architecture
+  - social norms
+  - sustainable systems
+license: MIT
