@@ -1,0 +1,28 @@
+title: "Finance, Leverage, and Systemic Risk"
+slug: "finance-leverage-and-systemic-risk"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/finance-leverage-and-systemic-risk"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - finance
+  - leverage
+  - systemic risk
+  - balance sheets
+  - equity amplification
+  - collateral
+  - margin calls
+  - liquidity risk
+  - funding gaps
+  - fire sales
+  - contagion
+  - network risk
+  - shadow banking
+  - macroprudential governance
+  - climate financial risk
+  - sustainable finance
+license: MIT
