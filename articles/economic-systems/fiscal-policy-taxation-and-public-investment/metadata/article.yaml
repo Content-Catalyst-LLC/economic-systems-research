@@ -1,0 +1,27 @@
+title: "Fiscal Policy, Taxation, and Public Investment"
+slug: "fiscal-policy-taxation-and-public-investment"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/fiscal-policy-taxation-and-public-investment"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - fiscal policy
+  - taxation
+  - public investment
+  - public finance
+  - budget balance
+  - public debt
+  - tax progressivity
+  - automatic stabilizers
+  - fiscal multipliers
+  - infrastructure maintenance
+  - state capacity
+  - local fiscal capacity
+  - inequality
+  - resilience investment
+  - sustainable public finance
+license: MIT
