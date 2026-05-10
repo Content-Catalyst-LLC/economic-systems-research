@@ -1,0 +1,26 @@
+title: "Money, Banking, Credit, and Financial Intermediation"
+slug: "money-banking-credit-and-financial-intermediation"
+content_pillar: "Economic Systems"
+github_path: "articles/economic-systems/money-banking-credit-and-financial-intermediation"
+standard_stack:
+  - Python
+  - R
+  - Stata
+  - SQL
+  - Julia
+research_themes:
+  - money
+  - banking
+  - credit
+  - financial intermediation
+  - deposit creation
+  - leverage
+  - liquidity
+  - payment systems
+  - credit allocation
+  - debt service
+  - central banking
+  - financial instability
+  - monetary hierarchy
+  - sustainable finance
+license: MIT
